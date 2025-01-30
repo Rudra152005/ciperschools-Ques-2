@@ -1,2 +1,2 @@
-# ciperschools-Ques-2
+# ciperschools-Ques
 Cipher Schools Assignment
