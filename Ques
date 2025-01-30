@@ -1,0 +1,5 @@
+Write a Java program to demonstrate the use of primitive data types and type conversion. The program should:
+
+Declare and initialize variables of different primitive data types (int, double, char, and boolean).
+Perform type conversion by converting an int to a double and a char to an int.
+Print the values of all variables before and after the conversions.
